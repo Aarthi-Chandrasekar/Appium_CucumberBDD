@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "deviceName": "Aarthi",
+  "browserName": "Chrome",
+  "automationName": "UiAutomator2",
+  "chromedriverExecutable": "C:\\Users\\Admin\\chromedriver\\chromedriver.exe"
+}
+

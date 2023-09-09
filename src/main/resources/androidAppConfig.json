@@ -1,0 +1,6 @@
+{
+  "deviceName": "Aarthi",
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "app": "C:\\Users\\Admin\\Appium_BDD_Allure\\src\\main\\resources\\General-Store.apk"
+}
